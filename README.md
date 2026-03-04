@@ -86,24 +86,19 @@ I'm a passionate software engineer specializing in building scalable, high-perfo
 ---
  
 ## 🏆 Featured Projects
+for my featured project you can check out my public repos and my portfolio
  
-### 🚀 **Technoceram E-commerce Platform**
-A full-stack luxury e-commerce solution with advanced admin panel
-- **Tech**: Django, React, TypeScript, Docker, PostgreSQL
-- **Features**: Real-time inventory, Advanced caching, CI/CD pipeline
-- **Performance**: Optimized with Varnish cache and Nginx load balancing
- 
-### 🔄 **CI/CD Pipeline Automation**
-Production-ready GitHub Actions workflows
-- **Features**: Multi-stage Docker builds, Automated testing, Docker Hub deployment
-- **Optimization**: Parallel builds, Caching strategies, Security scanning
- 
-### 📱 **System Design Templates**
-Scalable architecture patterns and best practices
-- **Includes**: Microservices patterns, Database design, Caching strategies
-- **Documentation**: Comprehensive guides and implementation examples
- 
+
+- **🔗 [Live Portfolio](https://zazouaza.github.io/react-portfolio/)**
+
+
+and you can book me here 
+- **🔗 [Live Booking Site](https://zazou-booking.vercel.app/)**
+
+
+
 ---
+ 
  
 ## 🎥 Learn With Me
  
