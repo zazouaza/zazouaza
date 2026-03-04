@@ -82,16 +82,6 @@ I'm a passionate software engineer specializing in building scalable, high-perfo
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zazouaza&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zazouaza&theme=radical&no-frame=true&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-api.vercel.app/api?username=zazouaza&limit=100&theme=radical&hide_border=true" alt="Contributor Graph" />
-</div>
-
- 
 ---
  
 ## 🏆 Featured Projects
