@@ -78,10 +78,19 @@ I'm a passionate software engineer specializing in building scalable, high-perfo
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zazouaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zazouaza&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
- 
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zazouaza&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zazouaza&theme=radical&no-frame=true&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-api.vercel.app/api?username=zazouaza&limit=100&theme=radical&hide_border=true" alt="Contributor Graph" />
+</div>
+
  
 ---
  
