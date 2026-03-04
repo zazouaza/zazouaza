@@ -150,7 +150,7 @@ I share advanced system design concepts and performance optimization techniques 
  
 <div align="center">
  
-![Visitor Count](https://profile-counter.glitch.me/zazou/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/zazouaza/count.svg)
  
 *"The best time to optimize a system is at design time. The second best time is now."*
  
