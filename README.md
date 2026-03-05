@@ -69,21 +69,7 @@ I'm a passionate software engineer specializing in building scalable, high-perfo
 ![Varnish](https://img.shields.io/badge/Varnish-EA5A43?style=for-the-badge&logo=varnish&logoColor=white)
  
 </div>
- 
----
- 
-## 📊 GitHub Analytics
- 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zazouaza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zazouaza&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zazouaza&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
----
- 
+  
 ## 🏆 Featured Projects
 for my featured project you can check out my public repos and my portfolio
  
