@@ -123,20 +123,4 @@ I share advanced system design concepts and performance optimization techniques 
  
 ---
  
-<div align="center">
- 
-### 🌟 **"Code is poetry, architecture is art, performance is magic."**
- 
-*Building the future, one optimized system at a time...*
- 
-</div>
- 
----
- 
-<div align="center">
- 
-![Visitor Count](https://profile-counter.glitch.me/zazouaza/count.svg)
- 
-*"The best time to optimize a system is at design time. The second best time is now."*
- 
-</div>
+
